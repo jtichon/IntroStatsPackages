@@ -1,2 +1,5 @@
 ^introstats\.Rproj$
 ^\.Rproj\.user$
+^introstats\.Rcheck$
+^introstats.*\.tar\.gz$
+^introstats.*\.tgz$
